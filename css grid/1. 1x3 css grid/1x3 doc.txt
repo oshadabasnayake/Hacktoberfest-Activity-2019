@@ -1,0 +1,5 @@
+this is 1x3 css grid with embedded css script.
+
+<style></style> being used
+
+-oshada97-
